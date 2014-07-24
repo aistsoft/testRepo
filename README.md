@@ -1,4 +1,4 @@
 testRepo
 ========
 
-our first test repository
+our first test repository!
