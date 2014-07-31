@@ -1,5 +1,4 @@
 init
 change
 change 2
-change by seedofpanic
 change 3
